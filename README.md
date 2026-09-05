@@ -4,7 +4,7 @@ Mi primer repositorio
 
 Lorem ipsum dolor sit amet, consectetur incididunt dolore aliqua.
 
-
+Septimo commit: mergeando nueva rama con main
 
 Tercer commit: Excepteur sint occaecat, sunt in culpa qui officia
 
